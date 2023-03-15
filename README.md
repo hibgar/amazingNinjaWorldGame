@@ -1,7 +1,7 @@
 # amazingNinjaWorldGame
 One of many games I made working at Code Ninjas!
 
-This 2D game features player movement, clickable buttons, a working healthbar and scene switching.
+This 2D Unity game features player movement, clickable buttons, a working healthbar and scene switching. All written in C#.
 
 Play it here:
 https://hibgar.github.io/amazingNinjaWorldGame/ 
